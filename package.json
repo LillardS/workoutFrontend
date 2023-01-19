@@ -1,5 +1,5 @@
 {
-  "homepage": "https://lillards.github.io/workout",
+  "homepage": "https://lillards.github.io/workout/",
   "proxy": "http://localhost:3000",
   "name": "frontend",
   "version": "0.1.0",
